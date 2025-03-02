@@ -35,4 +35,15 @@ body {
   font-size: 18px;
   outline: none;
   background-color: #fff;
+
+  code {
+    background-color: #eee;
+  }
+
+  blockquote {
+    background-color: #eee;
+    border-left: 3px solid peachpuff;
+    margin: 0;
+    padding: 24px;
+  }
 }
